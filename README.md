@@ -3,6 +3,9 @@ Engineering materials
 
 This repository contains engineering materials of a self-driving vehicle's model participating in the WRO Future Engineers competition in the season 2024.
 
+Youtube: Dune (@Dune-sa) 
+or URL Link: https://www.youtube.com/@Dune-sa
+
 ## Content
 
 * `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
