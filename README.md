@@ -21,7 +21,7 @@ or URL Link: https://www.youtube.com/@Dune-sa
 Welcome to the repository of Team Dune for the World Robotic Olympiad competition! In this README, we will provide an overview of our robot design, including its electromechanical components, code structure, and the process to build, compile, and upload the code to the vehicle's controllers.
 
 Sagy - Captain, Coder.
-Alikhan - responsible for GitHub and engineering journal, Engineer.
+Alikhan - responsible for GitHub and engineering journal, Robotics Engineer.
 Johnny - our car.
 
 ## A short description of how we made a self-driving vehicle
