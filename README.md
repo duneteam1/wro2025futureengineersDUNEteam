@@ -28,5 +28,5 @@ And for object recognition, we use HuskyLens.And when the husky sees an object, 
 First algoritm:
 Second algoritm:
 
-##Conclusion
+## Conclusion
 As a result, we wrote the code and created a robot so that it could drive itself, that is, autonomously.With the help of ordinary things, we made an autonomous car.We are glad that you can now also replicate such an autonomous machine for yourself by watching and copying the code in our GitHub.We have also added comments and explanations everywhere to make it easier for you to understand all this.Also, do not repeat our mistakes and do what you want.We believe in you!
