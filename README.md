@@ -17,3 +17,12 @@ This repository contains engineering materials of a self-driving vehicle's model
 
 Welcome to the repository of Team Dune for the World Robotic Olympiad competition! In this README, we will provide an overview of our robot design, including its electromechanical components, code structure, and the process to build, compile, and upload the code to the vehicle's controllers.
 
+Sagy - Captain, Coder.
+Alikhan - responsible for GitHub and engineering journal, Engineer.
+Johnny - our car.
+
+## A short description of how we made a self-driving vehicle.
+Our electronics consists of a HuskyLens camera, 4 HC SR04 Ultrasonic Sensors,Arduino Nano,Motor Driver,MG996R Servo Motor,DC Motor.In order for him to drive in an empty field, we made an algorithm that compares distances from the sides and turns in the right direction.
+And for object recognition, we use HuskyLens.And when the husky sees an object, it returns for arduino the ID of the object and its height. Red objects have an ID of 1 and green ones have an ID of 2. performing a detour around the object, the object itself must have a height of more than 100 pixels so that those objects that are behind the right one are not recorded in the variable. That is, to perform a detour, two conditions must be met: the color of the object and its height must be more than 100 pixels.The servo motor is connected to the wheels using a steering rack and the draviver motor gives additional voltage to the motor because the arduino does not give full voltage to the motor.We made algorithms that did it all.
+
+First algoritm:
