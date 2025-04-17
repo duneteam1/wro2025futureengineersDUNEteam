@@ -1,8 +1,7 @@
-Engineering materials
+Dune WRO Future Engineers team
 ====
-
-This repository contains engineering materials of a self-driving vehicle's model participating in the WRO Future Engineers competition in the season 2024.
-
+This repository contains engineering materials of a self-driving and lego-made vehicle's model participating in the WRO Future Engineers competition in the season 2025.
+Instagram: @dunewro
 Youtube: Dune (@Dune-sa) 
 or URL Link: https://www.youtube.com/@Dune-sa
 
