@@ -5,6 +5,7 @@ Instagram: @dunewro
 Youtube: Dune (@Dune-sa) 
 or URL Link: https://www.youtube.com/@Dune-sa
 
+![image alt](https://github.com/duneteam1/wro2024futureengineersduneteam/blob/main/channels4_banner.jpg?raw=true)
 ## Content
 
 * `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
