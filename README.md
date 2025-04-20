@@ -40,5 +40,9 @@ For object recognition, we use Raspberry Pi camera v2.1. When the camera sees an
 ### [Team Photos](/t-photos/)
 ### [Vehicle Photos](/v-photos/)
 
+# Our journey
+
+  This text contains our struggles and achievements, which we have came across during our few months of preparation. **How many things we had to redesign,** how many things we had to figure out to make our robot work.
+
 ## Conclusion
 As a result, we wrote the code and created a robot so that it could drive itself, that is, autonomously.With the help of ordinary things, we made an autonomous car.We are glad that you can now also replicate such an autonomous machine for yourself by watching and copying the code in our GitHub.We have also added comments and explanations everywhere to make it easier for you to understand all this.Also, do not repeat our mistakes and do what you want.We believe in you!
