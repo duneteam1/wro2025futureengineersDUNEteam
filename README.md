@@ -29,5 +29,16 @@ We have built a vehicle from Lego Spike Prime kit combining it with Raspberry Pi
 Our electronics consists of a Raspberry Pi Camera v2.1 and Raspberry Pi 4 build hat, 1 Ultrasonic Sensor, 2 Big motor drivers, 1 colour sensor from Lego Spike Prime kit. In order for him to drive in an empty field, we made an algorithm where ultrasonic sensor evaluates the distance from the right side and keep the vehicle in the cente, then when the colour sensor detects the color (yellow or blue) on the field, it turns whether to the right or left.
 For object recognition, we use Raspberry Pi camera v2.1. When the camera sees an obstacle, it returns for built hat the ID of the object and its height. Red objects have an ID of 1 and green ones have an ID of 2. performing a detour around the object, the object itself must have a height of more than 100 pixels so that those objects that are behind the right one are not recorded in the variable. That is, to perform a detour, two conditions must be met: the color of the object and its height must be more than 100 pixels.The servo motor is connected to the wheels using a steering rack and the draviver motor gives additional voltage to the motor because the arduino does not give full voltage to the motor.We made algorithms that did it all.
 
+# Table of contents
+### [Our journey](#our-journey)
+### [Ideas and principles](/Ideas_and_principles.md)
+### [Hardware documentation](/schemes/README.md)
+### [Software documentation](/src/README.md)
+### [Measurent- The robot's mechanical characteristics](/The%20robot's%20mechanical%20characteristics.md)
+### [RpiCode development tool documentation](/other/RpiCode/README.md)
+### [Videos](/video/video.md)
+### [Team Photos](/t-photos/)
+### [Vehicle Photos](/v-photos/)
+
 ## Conclusion
 As a result, we wrote the code and created a robot so that it could drive itself, that is, autonomously.With the help of ordinary things, we made an autonomous car.We are glad that you can now also replicate such an autonomous machine for yourself by watching and copying the code in our GitHub.We have also added comments and explanations everywhere to make it easier for you to understand all this.Also, do not repeat our mistakes and do what you want.We believe in you!
