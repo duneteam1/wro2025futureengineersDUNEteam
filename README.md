@@ -28,7 +28,7 @@ We have built a vehicle from a ordinary kit combining it with Raspberry Pi 4 and
 -  1 REV servo motor
 -  1 powerbank
 -  1 battery folder
--  1 motor driver.
+-  1 motor driver L298N
   In order for him to drive in an empty field, we made an algorithm where 2 distance sensors evaluates the distance from the both side and keep the vehicle in the centre. To make vehicle turn whether right or left, it works with proporion of both distances and compares it.
 **Formula:**
 a = 400
