@@ -22,7 +22,7 @@ Welcome to the repository of Team Dune for the World Robotic Olympiad competitio
 ## A short description of how we made a self-driving vehicle
 We have built a vehicle from a ordinary kit combining it with Raspberry Pi 4 and raspberry Pi camera v2.1.
 **Our electronics consists of**
-- a Raspberry Pi Camera v2.1 and Raspberry Pi5
+- a Raspberry Pi Camera v2.1 and Raspberry Pi4
 -  2 light distance Sensor
 -  1 Big motor driver
 -  1 REV servo motor
