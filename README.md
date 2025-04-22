@@ -64,8 +64,15 @@ print(kef)
   - Here you can watch videos about past competitions and current preparation.
 - **Instagram**: [@dunewro](https://www.instagram.com/dunewro/)
   - Cool posts and updates about our.
-We are participating since the previous year and we are diving in this season with some experience. In the previous 2024 season, we lost the game because our vehicle's 
 
+We are participating since the previous year and we are diving in this season with some experience. **In the previous 2024 season**, we lost the game because our vehicle's electronics was confused and eventually burnt.This year we had to fix this problem and do not repeat it in this season. Therefore,we started making robot from Lego Prime kit,by believieng that electronic's easy functionability will change everything. We have been coding our vehicle for a months,but couldnt automize it. So thats why we returned to our old vehicle before 3 days of competition. **This challenge was the main one** and we experienced a lot of stress and exhaustion because of it. Because we wanted to both meet the deadlines and make our vehicle powerful. Now, we changed the servo motor and used Raspberry Pi pico 4 instead of Arduino. It is mor comfortable and understandable, because arduino recquired a lot of wires that hampered to the whole system. 
+
+## Teamwork
+Our team consisted of three members: Alikhan, Sagy and Johny(our vehicle).
+We are used to be classmates. In addition,we have a good contact and have succesfully worked in the team and helped each other. Both of us played the crucial roles in this project. My role is main engineer while Sagy is coder. Furthermore, we have had a huge experience in the First Tech Challenge, and we were doing great with the vehicle.
 
 ## Conclusion
 As a result, we wrote the code and created a robot so that it could drive itself, that is, autonomously.With the help of ordinary things, we made an autonomous car.We are glad that you can now also replicate such an autonomous machine for yourself by watching and copying the code in our GitHub.We have also added comments and explanations everywhere to make it easier for you to understand all this.Also, do not repeat our mistakes and do what you want.We believe in you!
+
+## Special thanks
+Special thanks to our coach,Yerzhan Auyezov and Alikhan Essally from the [Quantum STEM School](https://quantum.edu.kz/en/)) for helping us to build, programm our  vehicle and co-ordinate us throughout the preparation.Our school, **Quantum STEM shool** provived us the space to prepare to the competition.In addition, this school made a huge impact on our vehicle by supporting it in financially win. **We very appreciate it!** 🙂.
