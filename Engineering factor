@@ -1,6 +1,5 @@
 We ordered a kit for the machine and after assembling the machine, we made all the electronics ourselves.
 We have been looking for a long time for a convenient set for the machine that will have many useful functions and advantages included in the set.
-We also made a model ourselves that protects the HuskyLens camera and also printed the blocks ourselves for our field .
 And in electronics, we came up with a solution to the problem of heating wires by taking thicker ones.
-And to communicate between HuskyLens and Arduino Nano, we use the UART protocol. And we ourselves came up with the location of 4 sensors.
-Our sensors stand at a specific angle of 165 degrees. And the remaining 2 sensors serve for parking. The HuskyLens was secured with posts and nuts.
+And to communicate between Raspberry PI camera v2.1 and Raspberry PI 4, we use the cable. And we ourselves came up with the location of sensors.
+The distance sensors are located on the beginnig of vehicle to react in the time.Theu must be before the wheels
