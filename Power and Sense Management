@@ -1,10 +1,8 @@
 We use two 18650 battery trays to power our robot.
-One tray powers the DC motor and Servo motor and the other powers the Arduino Nano. 
-Our robot has a camera with built-in AI called “HuskyLens”. Our camera is powered by the Arduino. 
-We also have 4 ultrasonic sensors called hc sr04 that calculate the distance from all sides of the car. 
-We use hcsr04 because of the convenience and ease of working with it. 
+One tray powers the DC motor and Servo motor and the other powers the Raspberry Pi .
+Our robot has a Raspberry v2.1 camera which is powered by the raspberry pi 4. 
+We also have 2 light distance sensors that calculate the distance from right and left sides of the car. 
 Two sensors that count the distance to the walls from the side and we have made an algorithm that reads the distance from the right and on the left and if one side is larger than the other then it turns in the need direction. 
-And the sensors that are installed in the front and rear are needed for proper parking of the car. 
-And also these sensors calculate the distance to the walls for parking. But we had one problem which was wires with a width of 0.5 millimeters that connect the battery tray to the servo motor and then, 
+But we had one problem which was wires with a width of 0.5 millimeters that connect the battery tray to the servo motor and then, 
 due to the fact that these wires were thin, they could not withstand such voltage and burned out along with the servo motor. 
 And then we installed a new servo motor and in order for this case did not repeat itself, we installed thick wires with a width of 2 millimeters which can now withstand the voltage.
